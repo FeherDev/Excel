@@ -1,0 +1,6 @@
+[credentials]
+login_user_value=[YOUR_EMAIL]
+login_pass_value=[YOUR_PASSWORD]
+
+[geckodriver]
+executable_path=/opt/local/bin/geckodriver
